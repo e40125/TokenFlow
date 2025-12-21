@@ -1,0 +1,15 @@
+torch>=2.0.0
+transformers
+datasets
+accelerate
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+
+# Optional: only needed for Mamba models
+causal-conv1d>=1.2.0
+mamba-ssm
